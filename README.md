@@ -1,1 +1,1 @@
-# Promise.allSettled-Promise.all
+# Promise.all vs Promise.allSettled
